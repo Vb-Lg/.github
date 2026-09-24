@@ -38,7 +38,7 @@ VbLg 是一个专注于 **{{方向，如：云原生 / AI 工具 / 前端基础�
 
 - 讨论区：https://github.com/orgs/VbLg/discussions
 - 邮箱：admin@vblg.top
-- 社交媒体：[@example](https://x.com/VbLg_)
+- 社交媒体：[@VbLg_](https://x.com/VbLg_)
 - 网站：https://vblg.top
 
 <!-- 
